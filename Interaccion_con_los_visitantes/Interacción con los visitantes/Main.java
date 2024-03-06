@@ -42,7 +42,7 @@ class TourParaNinos implements Tour {
 
     public void realizarTour() {
         System.out.println("¡Bienvenidos al tour para niños!");
-        System.out.println("Aquí están algunos de los animales que les encantarán:");
+        System.out.println("Aquí están algunos de los animales que les encantarán: lobos, tigres,leopardos,osos...");
         for (Animal animal : animales) {
             animal.mostrarInformacion();
         }
@@ -58,7 +58,7 @@ class TourDeAves implements Tour {
 
     public void realizarTour() {
         System.out.println("¡Bienvenidos al tour de aves!");
-        System.out.println("Estas son algunas de las hermosas aves que verán:");
+        System.out.println("Estas son algunas de las hermosas aves que verán: Fénix, aguilas y halcones ");
         for (Animal ave : aves) {
             ave.mostrarInformacion();
         }
@@ -85,7 +85,7 @@ class QuioscoInteractivo {
     }
 
     public void mostrarInformacionHabitat(String habitat) {
-        System.out.println("Información sobre el hábitat de " + habitat + ":");
+        System.out.println("Información sobre el hábitat de " + habitat + ": La selva es un ecosistema tropical densamente arbolado y humedo, habitado por muchos animales");
 
     }
 }
