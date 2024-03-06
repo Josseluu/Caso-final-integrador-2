@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Caso-final-integrador-2.iml" filepath="$PROJECT_DIR$/.idea/Caso-final-integrador-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cuidado de los animales/Cuidado de los animales.iml" filepath="$PROJECT_DIR$/Cuidado de los animales/Cuidado de los animales.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" filepath="$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestion_de_habitats/Gestion de habitats.iml" filepath="$PROJECT_DIR$/Gestion_de_habitats/Gestion de habitats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interaccion_con_los_visitantes/Interaccion_con_los_visitantes.iml" filepath="$PROJECT_DIR$/Interaccion_con_los_visitantes/Interaccion_con_los_visitantes.iml" />
     </modules>
   </component>
 </project>
