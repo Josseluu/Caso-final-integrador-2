@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Caso-final-integrador-2.iml" filepath="$PROJECT_DIR$/.idea/Caso-final-integrador-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" filepath="$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" />
+    </modules>
+  </component>
+</project>
