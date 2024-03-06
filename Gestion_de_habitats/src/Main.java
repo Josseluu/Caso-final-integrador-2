@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        // Crear hábitats
+
         HabitatAcuatico acuario = new HabitatAcuatico("Acuario");
         HabitatTerrestre bosque = new HabitatTerrestre("Bosque");
         HabitatAviario jaula = new HabitatAviario("Jaula de pájaros");
 
-        // Cambiar condiciones de los hábitats
+
         acuario.cambiarTemperatura(25);
         acuario.cambiarHumedad(80);
         acuario.cambiarLimpieza(90);
@@ -18,7 +18,7 @@ public class Main {
         jaula.cambiarHumedad(60);
         jaula.cambiarLimpieza(95);
 
-        // Monitorear los hábitats
+
         acuario.monitorear();
         bosque.monitorear();
         jaula.monitorear();
